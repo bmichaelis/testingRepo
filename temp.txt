@@ -1,2 +1,2 @@
-New text
+Original text
 and another line
