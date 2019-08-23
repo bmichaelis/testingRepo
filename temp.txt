@@ -1,2 +1,2 @@
-Old text
+Original text
 and another line
